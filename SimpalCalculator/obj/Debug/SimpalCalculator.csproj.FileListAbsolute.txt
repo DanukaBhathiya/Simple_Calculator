@@ -1,0 +1,9 @@
+D:\project\OOP First app\Finals\SimpalCalculator\SimpalCalculator\bin\Debug\SimpalCalculator.exe.config
+D:\project\OOP First app\Finals\SimpalCalculator\SimpalCalculator\bin\Debug\SimpalCalculator.exe
+D:\project\OOP First app\Finals\SimpalCalculator\SimpalCalculator\bin\Debug\SimpalCalculator.pdb
+D:\project\OOP First app\Finals\SimpalCalculator\SimpalCalculator\obj\Debug\SimpalCalculator.csprojResolveAssemblyReference.cache
+D:\project\OOP First app\Finals\SimpalCalculator\SimpalCalculator\obj\Debug\SimpalCalculator.Form1.resources
+D:\project\OOP First app\Finals\SimpalCalculator\SimpalCalculator\obj\Debug\SimpalCalculator.Properties.Resources.resources
+D:\project\OOP First app\Finals\SimpalCalculator\SimpalCalculator\obj\Debug\SimpalCalculator.csproj.GenerateResource.Cache
+D:\project\OOP First app\Finals\SimpalCalculator\SimpalCalculator\obj\Debug\SimpalCalculator.exe
+D:\project\OOP First app\Finals\SimpalCalculator\SimpalCalculator\obj\Debug\SimpalCalculator.pdb
